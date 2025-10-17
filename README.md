@@ -28,5 +28,5 @@ Built with **Vite** for blazing-fast performance and clean developer experience.
 
 ---
 
-## 📂 Project Structure
+
 
