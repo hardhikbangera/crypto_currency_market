@@ -1,12 +1,32 @@
-# React + Vite
+# 💹 Crypto Currency Market
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **React + JavaScript** web app that displays real-time cryptocurrency market data.  
+Built with **Vite** for blazing-fast performance and clean developer experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📊 **Live Market Data** — Fetches and displays real-time cryptocurrency prices and stats.  
+- 🧭 **Interactive UI** — Browse, search, and explore different crypto coins easily.  
+- ⚡ **Vite-Powered** — Superfast development server and optimized production builds.  
+- 🧱 **Modular Components** — Reusable, well-structured React components for scalability.  
+- 🧹 **Code Quality** — ESLint integration ensures clean and consistent JavaScript code.  
+- 🌐 **Responsive Design** — Works seamlessly across desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** | Frontend framework |
+| **Vite** | Build tool and bundler |
+| **JavaScript (ES6+)** | Main programming language |
+| **ESLint** | Code linting and quality enforcement |
+| **HTML5 & CSS3** | UI structure and styling |
+
+---
+
+## 📂 Project Structure
+
